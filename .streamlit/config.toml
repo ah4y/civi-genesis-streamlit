@@ -1,0 +1,17 @@
+# Streamlit configuration for CIVI-GENESIS
+[general]
+dataFrameSerialization = "legacy"
+
+[server]
+enableCORS = false
+enableXsrfProtection = false
+
+[browser]
+gatherUsageStats = false
+
+[theme]
+base = "light"
+primaryColor = "#FF6B6B"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F0F8FF"
+textColor = "#262730"
