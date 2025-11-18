@@ -1,12 +1,12 @@
 # 🏙️ CIVI-GENESIS: AI-Powered Policy Simulator
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://civi-genesis.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://civi-genesis-app-wfdaaca2qfz9anmfxedigr.streamlit.app/)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![Powered by Gemini](https://img.shields.io/badge/Powered%20by-Google%20Gemini-orange.svg)](https://ai.google.dev/)
 
 Simulate how **50,000 synthetic citizens** react to your policies using hybrid AI (LLM + Neural Network). Perfect for policy analysis, business strategy, and understanding social dynamics.
 
-**[🚀 Try Live Demo](https://civi-genesis.streamlit.app)**
+**[🚀 Try Live Demo](https://civi-genesis-app-wfdaaca2qfz9anmfxedigr.streamlit.app/)**
 
 ---
 
@@ -45,7 +45,7 @@ Simulate how **50,000 synthetic citizens** react to your policies using hybrid A
 ## 🚀 Quick Start
 
 ### Option 1: Try Online (Easiest)
-Just click **[Launch App](https://civi-genesis.streamlit.app)** - no installation needed!
+Just click **[Launch App](https://civi-genesis-app-wfdaaca2qfz9anmfxedigr.streamlit.app/)** - no installation needed!
 
 ### Option 2: Run Locally
 
