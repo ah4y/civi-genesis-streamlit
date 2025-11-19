@@ -222,6 +222,13 @@ This project is open source and available under the MIT License.
 
 ---
 
+📧 Contact
+For questions or support, please open an issue on GitHub.
+
+-sochials: LinkdIN : https://www.linkedin.com/in/ahmed-yassin-052209374/
+
+---
+
 ## 🙋‍♂️ Support
 
 - **Issues**: Report bugs or request features on GitHub
