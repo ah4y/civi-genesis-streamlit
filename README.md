@@ -222,7 +222,7 @@ This project is open source and available under the MIT License.
 
 ---
 
-📧 Contact
+## 📧 Contact
 For questions or support, please open an issue on GitHub.
 
 -sochials: LinkdIN : https://www.linkedin.com/in/ahmed-yassin-052209374/
